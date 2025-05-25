@@ -1,0 +1,8 @@
+*.log
+*.tmp
+*.bak
+*.tar
+*.img
+__pycache__/
+.env
+*.DS_Store
